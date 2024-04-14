@@ -1,4 +1,4 @@
-#include "Term.hpp"
+#include "../includes/Term.hpp"
 
 namespace gb {
 
