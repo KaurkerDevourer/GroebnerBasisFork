@@ -1,4 +1,4 @@
-#include "Rational.hpp"
+#include "../includes/Rational.hpp"
 
 namespace gb {
 namespace fields {
